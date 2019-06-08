@@ -1,0 +1,18 @@
+{
+  "name": "airi-client",
+  "version": "1.0.0",
+  "description": "airi discord client",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "mongoose": "^5.5.13",
+    "winston": "^3.2.1"
+  },
+  "keywords": [],
+  "author": "VairoSan",
+  "license": "ISC"
+}
