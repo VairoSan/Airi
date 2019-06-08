@@ -65,4 +65,4 @@ typings/
 config.json
 
 # Ignore editor configs
-.vscord/*
+.vscode/*
