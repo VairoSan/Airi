@@ -1,13 +1,6 @@
 # Airi
-**arabic list server bot**
+**airi discord client**
 
-## Back-end Technologies:
-- express
-- joi
-- database: mongodb
-
-## Front-end Technologies:
-- react
-
-
-
+## Dependencies:
+- discord.js
+- winston
