@@ -63,3 +63,6 @@ typings/
 
 # Ignore bot configs
 config.json
+
+# Ignore editor configs
+.vscord/*
