@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "discord.js": "^11.5.1",
-    "mongoose": "^5.5.13",
+    "mongoose": "^5.7.5",
     "winston": "^3.2.1"
   },
   "keywords": [],
